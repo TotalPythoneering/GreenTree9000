@@ -1,6 +1,6 @@
-# Forest Explorer Pro 🌲🟨
+# GreenTree 9000 🌲🟨
 
-**Forest Explorer Pro** is a high-contrast, professional-grade recursive file manager built with Python and Tkinter. It features a unique "Terminal-style" Forest Green and Yellow aesthetic, designed for power users who need to sift through large directory structures quickly.
+**GreenTree** is a high-contrast, professional-grade recursive file manager built with Python and Tkinter. It features a unique "Terminal-style" Forest Green and Yellow aesthetic, designed for power users who need to sift through large directory structures quickly.
 
 ## ✨ Features
 
@@ -15,10 +15,10 @@
 
 ## 🚀 Installation
 
-Install directly from PyPI:
+Install directly from ./dist:
 
 ```bash
-pip install forest-explorer-pro
+pip install ./dist/[whatever].whl
 ```
 
 ## 🛠 Usage
@@ -26,7 +26,7 @@ pip install forest-explorer-pro
 Once installed, launch the application from your terminal or command prompt:
 
 ```bash
-forest-explorer
+GreenTree
 ```
 
 ## ⌨️ Shortcuts & Interaction
