@@ -1,6 +1,6 @@
 # MISSION: Create a file-type exploration tool.
 # STATUS: Testing release.
-# VERSION: 0.1.0
+# VERSION: 0.1.1
 # NOTES: So far so good.
 # DATE: 2026-05-12 17:26:52
 # FILE: app.py
@@ -16,7 +16,7 @@ from collections import deque, Counter
 class UltimateForestExplorer:
     def __init__(self, root):
         self.title = "GreenTree 9000"
-        self.project_url = "https://www.soft9000.com"
+        self.project_url = "https://github.com/TotalPythoneering/GreenTree9000"
         self.version = "2026/05/12"
         self.root = root
         self.root.title(self.title)
