@@ -1,6 +1,10 @@
 # GreenTree 9000 🌲🟨
 
-**GreenTree** is a high-contrast, professional-grade recursive file manager built with Python and Tkinter. It features a unique "Terminal-style" Forest Green and Yellow aesthetic, designed for power users who need to sift through large directory structures quickly.
+**GreenTree** is a high-contrast, professional-grade recursive file manager built with Python and Tkinter. 
+
+There is the [how-to video](https://ko-fi.com/post/GreenTree-9000--The-Video-J3J51ZH5MY).
+
+This **GreenTree** project features a unique "Terminal-style" Forest Green and Yellow aesthetic, designed for power users who need to sift through large directory structures quickly.
 
 ![Green Tree 'en Action](https://github.com/TotalPythoneering/GreenTree9000/blob/main/_graphics/GreenTreeOne.png)
 
