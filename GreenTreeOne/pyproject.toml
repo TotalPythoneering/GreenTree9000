@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GreenTree"
+version = "1.0.0"
+description = "A 'green' file-type manager with content preview, stats, and LRU history."
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [
+    {name = "Randall Nagy", email = "randall.nagy@gmail.com"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.scripts]
+GreenTree = "GreenTree.gtmain:main"
